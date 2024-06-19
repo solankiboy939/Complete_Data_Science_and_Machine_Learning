@@ -1,0 +1,8 @@
+1,5 Star,5,96
+2,Milky Bar,5,100
+3,Cake,300,5
+4, Candy, 50,35
+1,5 Star,5,96
+2,Milky Bar,5,100
+3,Cake,300,5
+4, Candy, 50,35

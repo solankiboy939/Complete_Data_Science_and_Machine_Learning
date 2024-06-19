@@ -2,7 +2,7 @@
 
 Welcome to the Complete Data Science and Machine Learning repository! This project provides a comprehensive set of tools, examples, and resources for understanding and implementing various data science and machine learning algorithms. Whether you're a beginner or an experienced practitioner, you'll find valuable resources here to enhance your knowledge and skills in data science and machine learning.
 
-![Machine Learning Animation](https://example.com/machine_learning_animation.gif)
+![Machine Learning Animation](https://github.com/solankiboy939/Complete_Science_-_Machine_Learning/assets/119101769/f6c48080-a55b-4da2-8b05-b94bbc63ff70)
 
 ## Table of Contents
 - [Introduction](#introduction)

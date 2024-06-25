@@ -17,6 +17,8 @@ Welcome to the Complete Data Science and Machine Learning repository! This proje
 - [Contributing](#contributing)
 - [License](#license)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Introduction
 Data science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. Machine learning, a branch of artificial intelligence (AI), focuses on building systems that learn from data and improve their performance over time without being explicitly programmed. This repository aims to provide a comprehensive understanding of both fields by offering a variety of tools and resources. These include data preprocessing techniques, exploratory data analysis (EDA), and implementations of supervised and unsupervised learning algorithms, reinforcement learning, and deep learning.
 

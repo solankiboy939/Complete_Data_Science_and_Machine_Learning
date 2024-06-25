@@ -42,6 +42,9 @@ This repository contains various Jupyter notebooks and Python scripts that demon
 ### Examples
 This section provides examples of various machine learning algorithms implemented in Python. Each example includes code snippets and explanations to help you understand the implementation and application of these algorithms. From basic models like linear regression to more complex algorithms like decision trees, these examples are designed to provide a practical understanding of machine learning concepts.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ### Linear Regression
 Linear regression is a simple yet powerful algorithm for predicting a continuous target variable. It assumes a linear relationship between the input variables (features) and the single output variable (target). By fitting a linear equation to the observed data, linear regression aims to model the relationship between the dependent variable and one or more independent variables. This repository includes an example of how to create a linear regression model, train it on example data, make predictions, and visualize the results using Python libraries such as scikit-learn and matplotlib.
 
@@ -76,7 +79,6 @@ An ROC curve (Receiver Operating Characteristic curve) is a graphical representa
 ![](https://miro.medium.com/v2/resize:fit:982/1*UpR91zC6y_pr63wLh5WQtQ.gif)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ### Contributing
 We welcome contributions from the community! If you'd like to contribute, please fork the repository and submit a pull request. Contributions can be in the form of bug fixes, new features, improvements to existing code, or documentation updates. Make sure to follow the project's coding standards and include appropriate tests. Detailed instructions are provided to guide you through the contribution process, ensuring that your contributions are integrated smoothly into the project.

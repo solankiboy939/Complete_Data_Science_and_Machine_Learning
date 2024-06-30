@@ -26,7 +26,6 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**
     ```sh
     git clone https://github.com/solankiboy939/Complete_Data_Science_and_Machine_Learning/tree/main/Python/File_With_Python/Library_For_Deployment
-    cd your-repo-name
     ```
 
 2. **Create a Virtual Environment**

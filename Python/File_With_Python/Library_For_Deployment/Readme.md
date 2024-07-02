@@ -1,4 +1,4 @@
-# Streamlit Application for Data Visualization
+# Streamlit Application for Data Visualization 
 
 ## Streamlit Application
 

@@ -63,6 +63,7 @@ Before you begin, ensure you have met the following requirements:
 
 ![image](https://github.com/solankiboy939/Complete_Data_Science_and_Machine_Learning/assets/119101769/f3340a99-922f-409d-8237-8a5c97b08123)
 
+__________________________________________________________________________________________________________________
 
 ## Creating a Streamlit Application
 

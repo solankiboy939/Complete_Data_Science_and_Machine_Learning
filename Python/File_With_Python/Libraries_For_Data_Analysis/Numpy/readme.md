@@ -98,6 +98,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or feedback, please feel free to reach out to us at [solankimanohar2176@gmail.com](mailto:solankimanohar2176@gmail.com).
 
----
-
-Feel free to customize this template based on the specific details and features of your project!

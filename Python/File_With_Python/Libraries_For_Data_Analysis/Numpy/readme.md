@@ -89,7 +89,7 @@ df['column_name'].plot(kind='hist')
 plt.title('Histogram of column_name')
 plt.show()
 ```
-<img src="Python/File_With_Python/Libraries_For_Data_Analysis/Numpy/DesmosHeartGIF.gif" alt="Desmos Heart GIF" width="500" height="600">
+![](Python/File_With_Python/Libraries_For_Data_Analysis/Numpy/DesmosHeartGIF.gif)
 
 
 ## 📄 License
